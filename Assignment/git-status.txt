@@ -1,3 +1,0 @@
-Command to view state of working directory and staging area
-
-$ git status
