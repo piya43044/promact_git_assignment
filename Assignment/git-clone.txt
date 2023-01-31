@@ -1,0 +1,3 @@
+Command to clone remote repository
+   
+$ git clone <repository URL>
