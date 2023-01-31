@@ -1,0 +1,3 @@
+Command to delete remote branch
+
+$ git push <remote_name> --delete <remote_branch>
