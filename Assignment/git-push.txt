@@ -1,0 +1,3 @@
+Command to push branch
+
+$ git push <remote_name> <branch_name>

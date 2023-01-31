@@ -1,0 +1,3 @@
+Command to change branch
+
+$ git checkout <brnch_name>

@@ -1,0 +1,3 @@
+Command to get commits and changes from remote branch (It should merge changes in current branch).
+
+$ git pull
