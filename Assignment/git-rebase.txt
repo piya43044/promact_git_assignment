@@ -1,3 +1,0 @@
-Command to do iterative rebase
-
-$ git rebase -i HEAD~3

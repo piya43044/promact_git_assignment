@@ -1,3 +1,0 @@
-Command to cherry pick commit which SHA => 092018283103810930
-
-$ git cherry-pick 092018283103810930
