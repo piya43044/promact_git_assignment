@@ -1,0 +1,3 @@
+Command to clean staging area
+
+$ git reset
